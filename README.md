@@ -10,7 +10,7 @@ Stone scissors game
 
 3- pkg install python 
 
-4- git clone 
+4- git clone https://github.com/SalahdinAyoubi/StoneScissorsGame.git
 
 5- cd StoneScissorsGame
 
