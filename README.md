@@ -1,11 +1,31 @@
 # StoneScissorsGame
+
 Stone scissors game
-# install in termux 
-# commands
-pkg update && pkg upgrade
-pkg install git
-pkg install python 
+
+# commands install in termux 
+
+1- pkg update && pkg upgrade
+
+2- pkg install git
+
+3- pkg install python 
+
+4- git clone 
+
+5- cd StoneScissorsGame
+
+6- ls
+
+7- python run_game.py 
+
+ 
+
+
+
+
+
+pkg install python
 git clone 
-cd StoneScissorsGame
-ls
-python run_game.py 
+
+
+
