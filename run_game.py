@@ -38,7 +38,8 @@ list = [stone ,  sheet , sciss]
 
 def about():
 
-	z=my.replace("Ø", "∞")	for i in range(1):
+	z=my.replace("Ø", "∞")	
+	for i in range(1):
 
 		for i in colors: 
 
